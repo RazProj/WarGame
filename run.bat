@@ -1,0 +1,2 @@
+java Administrator
+pause
