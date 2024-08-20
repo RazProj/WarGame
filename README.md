@@ -11,7 +11,6 @@ Project Structure:
 
 How to Run the Program:
 
-To run the program, follow these steps:
 * Ensure that you have the Java Development Kit (JDK 8 or higher) installed on your system.
 * Open the command line and navigate to the directory containing the program.
 * Run the program using the provided run.bat script, or by typing the following command: `java Administrator`
